@@ -1,4 +1,3 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif)]()
 <h1 align="center">Hi 👋, I'm Muhammad Syahrul R</h1>
 <h3 align="center">A passionate data analyst from Indonesia</h3>
 <img align="right" alt="Analyst" width=400 src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
